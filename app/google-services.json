@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "522026556673",
+    "firebase_url": "https://classtimetable-c48db.firebaseio.com",
+    "project_id": "classtimetable-c48db",
+    "storage_bucket": "classtimetable-c48db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522026556673:android:f6cbddac5b5c4d5e",
+        "android_client_info": {
+          "package_name": "com.uche.myrabohs.timetable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522026556673-qu2lhg0b9ug17r4dn8emn9a3suph854d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uche.myrabohs.timetable",
+            "certificate_hash": "ee160eeb5d5dc5e2f3577a103b5e788072d9ad65"
+          }
+        },
+        {
+          "client_id": "522026556673-aq1hhi5gg6svfbeo6r9nir7p87b9hpo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoakbAIFFqkQAoramsIFee10UQHPg6asg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522026556673-aq1hhi5gg6svfbeo6r9nir7p87b9hpo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

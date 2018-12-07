@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+        <resources>
+
+    <string name="app_name">ClassTimeTable</string>
+
+    <string name="save">save</string>
+
+    <string name="database">Database</string>
+            <string name="enter_day">Enter Day</string>
+            <string name="enter_course">Enter Course</string>
+            <string name="enter_time">Enter Time</string>
+            <string name="enter_venue">Enter Venue</string>
+            <string name="enter_venue">Enter Venue</string>
+            <string name="enter_time">Enter Time</string>
+    <string name="enter_course">Enter Course</string>
+    <string name="enter_day">Enter Day</string>
+
+</resources>
